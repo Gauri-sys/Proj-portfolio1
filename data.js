@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Gauri Wakode",
+  firstName: "Gauri",     // Used in the hero greeting
+  lastName: "Wakode",     // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -29,7 +29,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
+      { label: "Branch", value: "Computer Engineering" },
       { label: "Year", value: "Second Year (SE)" },
     ],
   },
@@ -99,7 +99,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // ----------------------------------------------------------
   education: [
     {
-      degree: "B.E. in Artificial Intelligence and Machine Learning",
+      degree: "B.E. in Computer Engineering",
       institution: "Savitribai Phule Pune University",
       duration: "2024 – 2028",
       description: "Currently in Second Year. CGPA: 8.5 / 10",
